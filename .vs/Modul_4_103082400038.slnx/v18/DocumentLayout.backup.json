@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9ED7EF4-F92A-4250-AAA0-0F1B8CD6546D}|Modul_4_103082400038\\Modul_4_103082400038.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\modul_4_103082400038\\modul_4_103082400038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9ED7EF4-F92A-4250-AAA0-0F1B8CD6546D}|Modul_4_103082400038\\Modul_4_103082400038.csproj|solutionrelative:modul_4_103082400038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\Program.cs",
+              "RelativeDocumentMoniker": "Modul_4_103082400038\\Program.cs",
+              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\Program.cs",
+              "RelativeToolTip": "Modul_4_103082400038\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:25:19.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
