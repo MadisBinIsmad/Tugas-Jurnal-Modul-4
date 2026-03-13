@@ -1,24 +1,29 @@
 ﻿using Modul_4_103082400038;
+using System;
 
-class Program
+namespace modul3_103082400038
 {
-    static void Main(string[] args)
+    class Program
     {
-        // Table Driven
-        KodeBuah kode = new KodeBuah();
+        static void Main(string[] args)
+        {
+            // tabe;
+            KodeBuah kode = new KodeBuah();
 
-        Console.WriteLine("Kode Buah Apel: " + kode.getKodeBuah(KodeBuah.NamaBuah.Apel));
-        Console.WriteLine("Kode Buah Durian: " + kode.getKodeBuah(KodeBuah.NamaBuah.Durian));
-        Console.WriteLine("Kode Buah Semangka: " + kode.getKodeBuah(KodeBuah.NamaBuah.Semangka));
+            Console.WriteLine("Kode Buah Apel: " + kode.getKodeBuah(KodeBuah.NamaBuah.Apel));
+            Console.WriteLine("Kode Buah Durian: " + kode.getKodeBuah(KodeBuah.NamaBuah.Durian));
+            Console.WriteLine("Kode Buah Semangka: " + kode.getKodeBuah(KodeBuah.NamaBuah.Semangka));
 
-        Console.WriteLine("\nSimulasi State Karakter Game\n");
+            Console.WriteLine("\n Posisi Karakter Game \n");
 
-        PosisiKarakterGame karakter = new PosisiKarakterGame();
+            PosisiKarakterGame karakter = new PosisiKarakterGame();
 
-        karakter.ActivateTrigger(PosisiKarakterGame.Trigger.TombolW);
-        karakter.ActivateTrigger(PosisiKarakterGame.Trigger.TombolX);
-        karakter.ActivateTrigger(PosisiKarakterGame.Trigger.TombolW);
-        karakter.ActivateTrigger(PosisiKarakterGame.Trigger.TombolS);
-        karakter.ActivateTrigger(PosisiKarakterGame.Trigger.TombolS);
+            karakter.ActivateTrigger(PosisiKarakterGame.Trigger.TombolW);
+            karakter.ActivateTrigger(PosisiKarakterGame.Trigger.TombolX);
+            karakter.ActivateTrigger(PosisiKarakterGame.Trigger.TombolW);
+            karakter.ActivateTrigger(PosisiKarakterGame.Trigger.TombolS);
+            karakter.ActivateTrigger(PosisiKarakterGame.Trigger.TombolS);
+            karakter.ActivateTrigger(PosisiKarakterGame.Trigger.TombolW);
+        }
     }
 }
