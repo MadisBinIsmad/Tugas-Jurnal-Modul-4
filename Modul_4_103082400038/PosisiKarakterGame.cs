@@ -67,7 +67,6 @@ namespace Modul_4_103082400038
         {
             State nextState = GetNextState(currentState, trigger);
 
-            // tambahan sesuai NIM % 3 == 2
             if (currentState == State.Berdiri && nextState == State.Terbang)
             {
                 Console.WriteLine("posisi take off");
