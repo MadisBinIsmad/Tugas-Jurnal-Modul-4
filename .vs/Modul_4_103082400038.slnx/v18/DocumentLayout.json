@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PosisiKarakterGame.cs",
-              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\PosisiKarakterGame.cs",
-              "RelativeDocumentMoniker": "Modul_4_103082400038\\PosisiKarakterGame.cs",
-              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\PosisiKarakterGame.cs",
-              "RelativeToolTip": "Modul_4_103082400038\\PosisiKarakterGame.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowEIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T00:04:22.648Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -47,8 +34,7 @@
               "RelativeToolTip": "Modul_4_103082400038\\KodeBuah.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T23:31:37.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T23:31:37.24Z"
             },
             {
               "$type": "Document",
@@ -58,10 +44,22 @@
               "RelativeDocumentMoniker": "Modul_4_103082400038\\Program.cs",
               "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\Program.cs",
               "RelativeToolTip": "Modul_4_103082400038\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAwAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T23:25:19.797Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PosisiKarakterGame.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\PosisiKarakterGame.cs",
+              "RelativeDocumentMoniker": "Modul_4_103082400038\\PosisiKarakterGame.cs",
+              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\PosisiKarakterGame.cs",
+              "RelativeToolTip": "Modul_4_103082400038\\PosisiKarakterGame.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv1UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T00:04:22.648Z"
             }
           ]
         }
