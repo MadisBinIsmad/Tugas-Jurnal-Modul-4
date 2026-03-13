@@ -1,0 +1,15 @@
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\bin\Debug\net10.0\Modul_4_103082400038.exe
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\bin\Debug\net10.0\Modul_4_103082400038.deps.json
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\bin\Debug\net10.0\Modul_4_103082400038.runtimeconfig.json
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\bin\Debug\net10.0\Modul_4_103082400038.dll
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\bin\Debug\net10.0\Modul_4_103082400038.pdb
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\obj\Debug\net10.0\Modul_4_103082400038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\obj\Debug\net10.0\Modul_4_103082400038.AssemblyInfoInputs.cache
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\obj\Debug\net10.0\Modul_4_103082400038.AssemblyInfo.cs
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\obj\Debug\net10.0\Modul_4_103082400038.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\obj\Debug\net10.0\Modul_4_103082400038.sourcelink.json
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\obj\Debug\net10.0\Modul_4_103082400038.dll
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\obj\Debug\net10.0\refint\Modul_4_103082400038.dll
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\obj\Debug\net10.0\Modul_4_103082400038.pdb
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\obj\Debug\net10.0\Modul_4_103082400038.genruntimeconfig.cache
+C:\Users\silvi\Documents\Kuliah\Semester 4\KLP\Tugas\Modul_4_103082400038\Modul_4_103082400038\obj\Debug\net10.0\ref\Modul_4_103082400038.dll

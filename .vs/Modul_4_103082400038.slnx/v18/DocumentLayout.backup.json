@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9ED7EF4-F92A-4250-AAA0-0F1B8CD6546D}|Modul_4_103082400038\\Modul_4_103082400038.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\modul_4_103082400038\\modul_4_103082400038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9ED7EF4-F92A-4250-AAA0-0F1B8CD6546D}|Modul_4_103082400038\\Modul_4_103082400038.csproj|solutionrelative:modul_4_103082400038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4123C1BF-07DD-F4B0-8E1A-A5ACED77AA8B}|Modul_4_103082400038\\Modul_4_103082400038.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\modul_4_103082400038\\modul_4_103082400038\\posisikaraktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4123C1BF-07DD-F4B0-8E1A-A5ACED77AA8B}|Modul_4_103082400038\\Modul_4_103082400038.csproj|solutionrelative:modul_4_103082400038\\posisikaraktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4123C1BF-07DD-F4B0-8E1A-A5ACED77AA8B}|Modul_4_103082400038\\Modul_4_103082400038.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\modul_4_103082400038\\modul_4_103082400038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4123C1BF-07DD-F4B0-8E1A-A5ACED77AA8B}|Modul_4_103082400038\\Modul_4_103082400038.csproj|solutionrelative:modul_4_103082400038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4123C1BF-07DD-F4B0-8E1A-A5ACED77AA8B}|Modul_4_103082400038\\Modul_4_103082400038.csproj|c:\\users\\silvi\\documents\\kuliah\\semester 4\\klp\\tugas\\modul_4_103082400038\\modul_4_103082400038\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4123C1BF-07DD-F4B0-8E1A-A5ACED77AA8B}|Modul_4_103082400038\\Modul_4_103082400038.csproj|solutionrelative:modul_4_103082400038\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PosisiKarakterGame.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\PosisiKarakterGame.cs",
+              "RelativeDocumentMoniker": "Modul_4_103082400038\\PosisiKarakterGame.cs",
+              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\PosisiKarakterGame.cs",
+              "RelativeToolTip": "Modul_4_103082400038\\PosisiKarakterGame.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T00:04:22.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KodeBuah.cs",
+              "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\KodeBuah.cs",
+              "RelativeDocumentMoniker": "Modul_4_103082400038\\KodeBuah.cs",
+              "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\KodeBuah.cs",
+              "RelativeToolTip": "Modul_4_103082400038\\KodeBuah.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T23:31:37.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\Program.cs",
               "RelativeDocumentMoniker": "Modul_4_103082400038\\Program.cs",
               "ToolTip": "C:\\Users\\silvi\\Documents\\Kuliah\\Semester 4\\KLP\\Tugas\\Modul_4_103082400038\\Modul_4_103082400038\\Program.cs",
               "RelativeToolTip": "Modul_4_103082400038\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T23:25:19.797Z",
               "EditorCaption": ""

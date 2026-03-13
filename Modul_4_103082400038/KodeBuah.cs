@@ -34,7 +34,7 @@ namespace Modul_4_103082400038
             "O00"
         };
 
-        public string getKodeBuah(Buah buah)
+        public string getKodeBuah(NamaBuah buah)
         {
             return kodeBuah[(int)buah];
         }
